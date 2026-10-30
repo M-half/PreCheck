@@ -40,9 +40,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-brd.md
-prd.md
-business-process.md
-PROMPT_BACKEND_PRECHECK.md
-PROMPT_FRONTEND_PRECHECK.md
-PUBLIC_PROMPT_FRONTEND_PRECHECK.md
+git rm --cached brd.md prd.md business-process.md PROMPT_BACKEND_PRECHECK.md PROMPT_FRONTEND_PRECHECK.md PUBLIC_PROMPT_FRONTEND_PRECHECK.md
